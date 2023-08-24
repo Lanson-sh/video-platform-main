@@ -6,6 +6,8 @@
 
 ####  **联系作者** 
 
+![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
+
  **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
  **   17001380020 微信同号**  
 
